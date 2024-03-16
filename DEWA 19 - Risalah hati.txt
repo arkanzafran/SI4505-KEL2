@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Aku bisa membuatmu jatuh cinta kepadaku
 Meski kau tak cinta kepadaku
 Beri sedikit waktu
@@ -9,3 +10,8 @@ Bagai malam tanpa bintang
 Cintaku tanpa sambutmu
 Bagai panas tanpa hujan
 >>>>>>> origin/hanifah
+=======
+Bagai panas tanpa hujan
+Jiwaku berbisik lirih
+Ku harus milikimu
+>>>>>>> origin/Raisya
