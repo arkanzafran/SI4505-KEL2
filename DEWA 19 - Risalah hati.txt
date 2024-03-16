@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Aku bisa membuatmu jatuh cinta kepadaku
 Meski kau tak cinta kepadaku
 Beri sedikit waktu
@@ -31,3 +32,9 @@ Kenali aku dulu
 Sebelum kau ludahi aku
 Sebelum kau robek hatiku
 >>>>>>> origin/ammar
+=======
+Aku bisa membuatmu jatuh cinta kepadaku
+Meski kau tak cinta kepadaku
+Beri sedikit waktu
+Biar cinta datang kar'na telah terbiasa
+>>>>>>> origin/Bramas_branch
