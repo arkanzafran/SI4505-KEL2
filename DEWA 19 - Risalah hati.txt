@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Aku bisa membuatmu jatuh cinta kepadaku
 Meski kau tak cinta kepadaku
 Beri sedikit waktu
@@ -13,18 +8,18 @@ Hidupku tanpa cintamu
 Bagai malam tanpa bintang
 Cintaku tanpa sambutmu
 Bagai panas tanpa hujan
->>>>>>> origin/hanifah
+
 =======
 Bagai panas tanpa hujan
 Jiwaku berbisik lirih
 Ku harus milikimu
->>>>>>> origin/Raisya
+
 =======
 Aku bisa membuatmu jatuh cinta kepadaku
 Meski kau tak cinta kepadaku
 Beri sedikit waktu
 Biar cinta datang karena telah terbiasa
->>>>>>> origin/nabila
+
 =======
 Simpan mawar yang kuberi
 Mungkin wanginya mengilhami
@@ -32,16 +27,9 @@ Sudikah dirimu untuk
 Kenali aku dulu
 Sebelum kau ludahi aku
 Sebelum kau robek hatiku
->>>>>>> origin/ammar
+
 =======
 Aku bisa membuatmu jatuh cinta kepadaku
 Meski kau tak cinta kepadaku
 Beri sedikit waktu
 Biar cinta datang kar'na telah terbiasa
->>>>>>> origin/Bramas_branch
-=======
-Aku bisa membuatmu jatuh cinta kepadaku
-Meski kau tak cinta kepadaku
-Beri sedikit waktu
-Biar cinta datang karena telah terbiasa
->>>>>>> Zafran
