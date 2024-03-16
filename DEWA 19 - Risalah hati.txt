@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Aku bisa membuatmu jatuh cinta kepadaku
 Meski kau tak cinta kepadaku
 Beri sedikit waktu
@@ -22,3 +23,11 @@ Meski kau tak cinta kepadaku
 Beri sedikit waktu
 Biar cinta datang karena telah terbiasa
 >>>>>>> origin/nabila
+=======
+Simpan mawar yang kuberi
+Mungkin wanginya mengilhami
+Sudikah dirimu untuk
+Kenali aku dulu
+Sebelum kau ludahi aku
+Sebelum kau robek hatiku
+>>>>>>> origin/ammar
