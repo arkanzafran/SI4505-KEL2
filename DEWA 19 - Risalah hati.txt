@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Aku bisa membuatmu jatuh cinta kepadaku
 Meski kau tak cinta kepadaku
 Beri sedikit waktu
@@ -38,3 +39,9 @@ Meski kau tak cinta kepadaku
 Beri sedikit waktu
 Biar cinta datang kar'na telah terbiasa
 >>>>>>> origin/Bramas_branch
+=======
+Aku bisa membuatmu jatuh cinta kepadaku
+Meski kau tak cinta kepadaku
+Beri sedikit waktu
+Biar cinta datang karena telah terbiasa
+>>>>>>> Zafran
