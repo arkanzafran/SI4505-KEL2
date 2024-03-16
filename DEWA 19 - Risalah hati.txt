@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Aku bisa membuatmu jatuh cinta kepadaku
 Meski kau tak cinta kepadaku
 Beri sedikit waktu
@@ -15,3 +16,9 @@ Bagai panas tanpa hujan
 Jiwaku berbisik lirih
 Ku harus milikimu
 >>>>>>> origin/Raisya
+=======
+Aku bisa membuatmu jatuh cinta kepadaku
+Meski kau tak cinta kepadaku
+Beri sedikit waktu
+Biar cinta datang karena telah terbiasa
+>>>>>>> origin/nabila
