@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Aku bisa membuatmu jatuh cinta kepadaku
 Meski kau tak cinta kepadaku
 Beri sedikit waktu
 Biar cinta datang karena telah terbiasa
+=======
+Hidupku tanpa cintamu
+Bagai malam tanpa bintang
+Cintaku tanpa sambutmu
+Bagai panas tanpa hujan
+>>>>>>> origin/hanifah
